@@ -11,7 +11,7 @@
 
 毛泽东诗词故事
 ===
-## 1.  　　　  　七绝·改西乡隆盛诗赠父亲　</br></br>
+#### 1.  　　　  　七绝·改西乡隆盛诗赠父亲　</br></br>
 　　　　　　　　<font face="华文楷体" color=#0099ff size=8>孩儿立志出乡关，</font></br></br>
 　　　　　　　　<font face="华文楷体" color=#0099ff size=8>学不成名誓不还；</font></br></br>
 　　　　　　　　<font face="华文楷体" color=#0099ff size=8>埋骨何须桑梓地，</font></br></br>
@@ -23,10 +23,10 @@
 <div>
     <table border="">
       <tr>
-	    <th>时间　</th>
-        <th>年龄　</th>
-        <th>学校　</th>
-	    <th>主要老师　</th>
+	    <th>时间</th>
+        <th>年龄</th>
+        <th>学校</th>
+	    <th>主要老师</th>
 	  </tr>
 	  <tr>
 	    <td>1902年</td>
@@ -43,7 +43,7 @@
       <tr>
         <td>1905年</td>
         <td>12岁</td>
-        <td>韶山桥头湾、钟家湾私塾　</td>
+        <td>韶山桥头湾、钟家湾私塾</td>
         <td>周少希</td>
 	  </tr>
     </table>
